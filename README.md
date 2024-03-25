@@ -5,10 +5,12 @@ An awesome list for oils-for-unix(i.e. OSH and YSH)
 
 - [oilshell/oil](https://github.com/oilshell/oil) - Official repo for oils.
 
-## Community
+## External Links
+- [oilshell.org](https://www.oilshell.org/) - Official documentation for oils.
 - [/r/oilshell](https://www.reddit.com/r/oilshell/) - Reddit sub for oils.
-- [@oilsforunix](https://twitter.com/oilsforunix) - Twitter account for oils
-- [Oilshell Zulip](https://oilshell.zulipchat.com/): - Zulip chat for oils
+- [@oilsforunix](https://twitter.com/oilsforunix) - Twitter account for oils.
+- [Oilshell Zulip](https://oilshell.zulipchat.com/) - Zulip chat for oils.
+- [Hacker News threads](https://news.ycombinator.com/from?site=oilshell.org) - Some discussions on oils.
 
 ## Editor Support
 
@@ -18,8 +20,3 @@ An awesome list for oils-for-unix(i.e. OSH and YSH)
 ## Containers
 
 - [docker-oilshell](https://github.com/hectorm/docker-oilshell) - A docker image for oils.
-
-## Writeups
-
-- [oilshell.org](https://www.oilshell.org/) - Official documentation for oils.
-
