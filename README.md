@@ -16,7 +16,3 @@ An awesome list for oils-for-unix(i.e. OSH and YSH)
 
 - [vim-oil](https://github.com/glyh/vim-oil) - Vim syntax highlighting for oils, for now only ysh is implemented.
 - [vscode-oilshell](https://github.com/karino2/vscode-oilshell) - Syntax highlighting for ysh.
-
-## Containers
-
-- [docker-oilshell](https://github.com/hectorm/docker-oilshell) - A docker image for oils.
