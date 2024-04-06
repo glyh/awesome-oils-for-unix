@@ -16,3 +16,7 @@ An awesome list for oils-for-unix(i.e. OSH and YSH)
 
 - [vim-oil](https://github.com/glyh/vim-oil) - Vim syntax highlighting for oils, for now only ysh is implemented.
 - [vscode-oilshell](https://github.com/karino2/vscode-oilshell) - Syntax highlighting for ysh.
+
+## Libraries 
+- [yake](https://github.com/glyh/yake) - Makefile builtin to ysh.
+- [termcodes](https://github.com/glyh/termcodes) - A library to help rendering termcodes to XTERM-compatible terminal enulators.
